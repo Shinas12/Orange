@@ -1,0 +1,1029 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+#maindiv{
+    width: 100%;
+    height: 4017px;
+    background-color: violet;
+}
+#header1{
+    width: 100%;
+    height: 472px;
+    background-color: black;
+    float: left;
+}
+#header2{
+    width: 100%;
+    height: 447px;
+    background-color: #eeeeee;
+    float: left;
+}
+#header3{
+    width: 100%;
+    height: 250px;
+    background-color: white;
+    float: left;
+}
+#header4{
+    width: 100%;
+    height: 609px;
+    background-color:black;
+    float: left;
+    position: relative;
+}
+#header5{
+    width: 100%;
+    height: 423px;
+    background-color:  #ff7900;
+    float: left;
+    position: relative;
+}
+#header6{
+    width: 100%;
+    height: 565px;
+    background-color: white;
+    float: left;
+    position: relative;
+}
+#header7{
+    width: 100%;
+    height: 262px;
+    background-color: #eeeeee;
+    float: left;
+    position: relative;
+
+}
+#header8{
+    width: 100%;
+    height: 307px;
+    background-color:#ffd200;
+    float: left;
+    position: relative;
+}
+#footer{
+    width: 100%;
+    height: 682px;
+    background-color: black;
+    float: left;
+    position: relative;
+}
+#insideheader1{
+    width: 1294px;
+    height: 445px;
+    float: left;
+    margin-left: 100px;
+    margin-top: 22px;
+    background-color: black;
+}
+#engagementalldiv{
+    width: 100%;
+    height: 68px;
+    float: left;
+    background-color: black;
+}
+#holidayalldiv{
+    width: 100%;
+    height: 377px;
+    float: left;
+    background-color: black;
+}
+#halfholidaydiv{
+    height: 100%;
+    width: 50%;
+    float: left;
+    background-color: black;
+}
+#halfholidaydiv2{
+    height: 100%;
+    width: 50%;
+    float: left;
+    background-color: black;
+}
+#engagementdivinside{
+    width: 1216px;
+    height: 46px;
+    float: left;
+    background-color: black;
+    margin-top: 20px;
+}
+.engagementtext{
+    font-family :HelvNowOrange, HelvNeueOrange, "Helvetica Neue", Helvetica, Arial, "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size:16px;
+    color: white;
+
+}
+#ulist1{
+    list-style-type:none;
+
+}
+.list1{
+    width: auto;
+    float: left;
+    margin-left: 10px;
+    margin-right: 23px;
+    margin-top: 15px;
+}
+#orangelogo{
+    margin-left: 8px;
+    float: left;
+}
+#steeringimage{
+    margin-top: 9px;
+    margin-left: 21px;
+}
+#holidayseasondiv{
+    width: 630px;
+    height: 95px;
+    margin-top: 60px;
+    float: left;
+    background-color: black;
+}
+#ourguidediv{
+    width: 100%;
+    height: 52px;
+    margin-top: 38px;
+    float: left;
+    background-color: black;
+}
+#findoutmore{
+    width: 143px;
+    height: 38px;
+    margin-top: 44px;
+    margin-left: 8px;
+    float: left;
+    background-color: black;
+}
+#holidaytext{
+    font-family:HelvNowOrange, HelvNeueOrange, "Helvetica Neue", Helvetica, Arial, "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size:32px;
+    color:#FF7900;
+}
+#ourguidetext{
+     font-family:HelvNowOrange, HelvNeueOrange, "Helvetica Neue", Helvetica, Arial, "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+     color: white;
+     font-size:19px;
+}
+#findoutmoretext{
+    font-family:HelvNowOrange, HelvNeueOrange, "Helvetica Neue", Helvetica, Arial, "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size:16px;
+    text-align:center;
+    color: black;
+    margin-top: 10px;
+}
+#ulist2{
+    list-style-type:none;
+
+}
+.list2{
+    width: auto;
+    float: right;
+    margin-left: 10px;
+    margin-top: 15px;
+}
+#searachlogoimage{
+    float: right;
+}
+#headlinesdiv{
+    height: 90px;
+    width: 1311px;
+    margin-left: 108px;
+    float: left;
+    background-color: #eeeeee;
+}
+#header2photosdiv{
+    height: 357px;
+    width: 1311px;
+    margin-left: 108px;
+    float: left;
+    background-color: #eeeeee;
+    display: flex;
+    position: relative;
+}
+#Headlinestext{
+    font-family :HelvNowOrange, HelvNeueOrange, "Helvetica Neue", Helvetica, Arial, "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size:30px;
+    text-align:left;
+    margin-top: 37px;
+    color: black;
+}
+#header2images1{
+       margin-right: 22px;
+       width: 641px;
+       height: 239px;
+}
+#header2images2{
+    margin-right: 22px;
+    height: 239px;
+    width: 310px;
+}
+#header2images3{
+    margin-right: 22px;
+    height: 239px;
+    width: 310px;
+}
+#becausetext{
+    font-family :HelvNowOrange, HelvNeueOrange, "Helvetica Neue", Helvetica, Arial, "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size:16px;
+    color: black;
+    position: absolute;
+    right: 675px;
+    top: 6.5cm;
+}
+#howtext{
+    font-family :HelvNowOrange, HelvNeueOrange, "Helvetica Neue", Helvetica, Arial, "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size:16px;
+    color: black;
+    position: absolute;
+    right: 365px;
+    top: 6.5cm;
+}
+#wheretext{
+    font-family :HelvNowOrange, HelvNeueOrange, "Helvetica Neue", Helvetica, Arial, "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size:16px;
+    color: black;
+    position: absolute;
+    right: 15px;
+    top: 6.5cm;
+}
+#seeallnewstext{
+    font-family :HelvNowOrange, HelvNeueOrange, "Helvetica Neue", Helvetica, Arial, "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size:16px;
+    color: orange;
+    position: absolute;
+    right: 210px;
+    top: 8.5cm;
+}
+#headermarginfinddiv{
+    height: 100%;
+    width: 109px;
+    float: left;
+    background-color:white;
+}
+#orangesharepricediv{
+    height: 100%;
+    width: 483px;
+    float: left;
+    background-color: white;
+    position: relative;
+}
+#orangetext{
+    font-family:HelvNowOrange, HelvNeueOrange, "Helvetica Neue", Helvetica, Arial, "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size:40px;
+    color:#FF7900;
+    position: absolute;
+    font-weight:700;
+    top: 0.5cm;
+}
+#paristext{
+    font-family :HelvNowOrange, HelvNeueOrange, "Helvetica Neue", Helvetica, Arial, "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size:16px;
+    color: black;
+    font-weight:400;
+    position: absolute;
+    top: 2.2cm;
+    left: 0.3cm;
+}
+#variationtext{
+    font-family :HelvNowOrange, HelvNeueOrange, "Helvetica Neue", Helvetica, Arial, "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size:16px;
+    color: black;
+    font-weight:400;
+    position: absolute;
+    top: 2.2cm;
+    left: 7cm;
+}
+#cashtext{
+    left: 0.3cm;
+    position: absolute;
+    font-family :HelvNowOrange, HelvNeueOrange, "Helvetica Neue", Helvetica, Arial, "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size:48px;
+    font-weight:700;
+    color: black;
+    top: 3.5cm;
+    cursor: pointer;
+}
+#cashtext2{
+    left: 7cm;
+    position: absolute;
+    font-family :HelvNowOrange, HelvNeueOrange, "Helvetica Neue", Helvetica, Arial, "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size:48px;
+    font-weight:700;
+    color: #CD3C14;
+    top: 3.5cm;
+    cursor: pointer;
+}
+#header3rightmostdiv{
+    width: 670px;
+    height: 100%;
+    float: left;
+    background-color: white;
+    position: relative;
+}
+#integratedtext{
+    font-family :HelvNowOrange, HelvNeueOrange, "Helvetica Neue", Helvetica, Arial, "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size:18px;
+    position: absolute;
+    font-weight:700;
+    top: 2.2cm;
+    left: 4.5cm;
+    cursor: pointer;
+
+}
+#consolidatedtext{
+    font-family :HelvNowOrange, HelvNeueOrange, "Helvetica Neue", Helvetica, Arial, "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size:18px;
+    position: absolute;
+    font-weight:700;
+    top: 4.6cm;
+    left: 4.5cm;
+    cursor: pointer;
+
+}
+#sharepricetext{
+    font-family :HelvNowOrange, HelvNeueOrange, "Helvetica Neue", Helvetica, Arial, "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size:18px;
+    position: absolute;
+    font-weight:700;
+    top: 4.6cm;
+    left: 13cm;
+    cursor: pointer;
+
+}
+#propertyimg{
+    width: 40px;
+    height: 35px;
+    left: 4.5cm;
+    top: 1.2cm;
+    position: absolute;
+}
+#searchimgorange{
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    left: 13cm;
+    top: 3.5cm;
+}
+#consolidatedimg{
+    width: 40px;
+    height: 35px;
+    position: absolute;
+    left: 4.5cm;
+    top: 3.6cm;
+
+}
+#latestpressreleasetext{
+    font-family :HelvNowOrange, HelvNeueOrange, "Helvetica Neue", Helvetica, Arial, "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size:34px;
+    position: absolute;
+    color: white;
+    font-weight:700;
+    left: 119px;
+    top: 71px;
+    cursor: pointer;
+}
+#capgeminitext{
+    font-family:HelvNowOrange, HelvNeueOrange, "Helvetica Neue", Helvetica, Arial, "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size:20px;
+    position: absolute;
+    color: white;
+    font-weight:700;
+    left: 119px;
+    top: 140px;
+    cursor: pointer;
+}
+#Belgiumtext{
+    font-family:HelvNowOrange, HelvNeueOrange, "Helvetica Neue", Helvetica, Arial, "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size:20px;
+    position: absolute;
+    color: white;
+    font-weight:700;
+    left: 119px;
+    top: 226px;
+    cursor: pointer;
+}
+#prescencetext{
+    font-family:HelvNowOrange, HelvNeueOrange, "Helvetica Neue", Helvetica, Arial, "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size:20px;
+    position: absolute;
+    color: white;
+    font-weight:700;
+    left: 119px;
+    top: 307px;
+    cursor: pointer;
+}
+#DadaDoctext{
+    font-family:HelvNowOrange, HelvNeueOrange, "Helvetica Neue", Helvetica, Arial, "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size:20px;
+    position: absolute;
+    color: white;
+    font-weight:700;
+    left: 119px;
+    top: 370px;
+    cursor: pointer;
+}
+#partnershiptext{
+    font-family:HelvNowOrange, HelvNeueOrange, "Helvetica Neue", Helvetica, Arial, "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size:20px;
+    position: absolute;
+    color: white;
+    font-weight:700;
+    left: 119px;
+    top: 455px;
+    cursor: pointer;
+}
+#June1{
+    font-family :HelvNowOrange, HelvNeueOrange, "Helvetica Neue", Helvetica, Arial, "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size:16px;
+    position: absolute;
+    left: 119px;
+    color:#666666;
+    font-weight:700;
+    top:124px ;
+
+}
+#June2{
+    font-family :HelvNowOrange, HelvNeueOrange, "Helvetica Neue", Helvetica, Arial, "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size:16px;
+    position: absolute;
+    left: 119px;
+    color:#666666;
+    font-weight:700;
+    top:207px ;
+
+}
+#June3{
+    font-family :HelvNowOrange, HelvNeueOrange, "Helvetica Neue", Helvetica, Arial, "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size:16px;
+    position: absolute;
+    left: 119px;
+    color:#666666;
+    font-weight:700;
+    top:290px ;
+
+}
+#June4{
+    font-family :HelvNowOrange, HelvNeueOrange, "Helvetica Neue", Helvetica, Arial, "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size:16px;
+    position: absolute;
+    left: 119px;
+    color:#666666;
+    font-weight:700;
+    top:351px ;
+
+}
+#June5{
+    font-family :HelvNowOrange, HelvNeueOrange, "Helvetica Neue", Helvetica, Arial, "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size:16px;
+    position: absolute;
+    left: 119px;
+    color:#666666;
+    font-weight:700;
+    top:437px ;
+
+}
+#seeallpress{
+    left: 555px;
+    top: 537px;
+    font-family:HelvNowOrange, HelvNeueOrange, "Helvetica Neue", Helvetica, Arial, "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size:16px;
+    font-weight:700;
+    position: absolute;
+    cursor: pointer;
+    color: white;
+}
+#tweetimage{
+    left: 768px;
+    top: 70px;
+    height: 351px;
+    width: 631px;
+    position: absolute;
+    border-radius: 10px;
+}
+#presskittext{
+    font-family:HelvNowOrange, HelvNeueOrange, "Helvetica Neue", Helvetica, Arial, "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size:16px;
+    font-weight:700;
+    position: absolute;
+    left: 827px;
+    top: 503px;
+    color: white;
+    cursor: pointer;
+}
+#contacttext{
+    font-family:HelvNowOrange, HelvNeueOrange, "Helvetica Neue", Helvetica, Arial, "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size:16px;
+    font-weight:700;
+    position: absolute;
+    left:1053px ;
+    top:503px ;
+    color: white;
+    cursor: pointer;
+}
+#subscribetext{
+    font-family:HelvNowOrange, HelvNeueOrange, "Helvetica Neue", Helvetica, Arial, "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size:16px;
+    font-weight:700;
+    position: absolute;
+    left:1263px ;
+    top: 503px;
+    color: white;
+    cursor: pointer;
+}
+#epressimage{
+    top: 457px;
+    position: absolute;
+    width: 33px;
+    height: 44px;
+    left: 852px;
+}
+#contactimage{
+    top: 457px;
+    position: absolute;
+    width: 39px;
+    height: 33px;
+    left: 1065px;
+}
+#subimage{
+    top: 457px;
+    position: absolute;
+    width: 40px;
+    height: 39px;
+    left: 1281px;
+}
+#momentumtext{
+    font-family:HelvNowOrange, HelvNeueOrange, "Helvetica Neue", Helvetica, Arial, "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size:24px;
+    font-weight:700;
+    color: black;
+    position: absolute;
+    left:549px ;
+    top:142px ;
+    cursor: pointer;
+}
+#momentumtext :hover{
+    color:#F16E00;
+}
+#buttonheader5{
+    width: 209px;
+    height: 40px;
+    left: 1097px;
+    top: 151px;
+    position: absolute;
+    background-color: white;
+    cursor: pointer;
+    border: black 2px solid;
+}
+#podcastbutton{
+    width: 209px;
+    font-weight: 700px;
+    color: black;
+    top: 0.3cm;
+    position: absolute;
+}
+#buttonheader5:hover{
+    background-color: black;
+}
+#podcastbutton:hover{
+    color: white;
+}
+#header5image{
+    position: absolute;
+    left: 162px;
+    top: 60px;
+}
+#header6image{
+    position: absolute;
+    left: 780px;
+    top: 64px;
+}
+#lookingtext{
+    font-family :HelvNowOrange, HelvNeueOrange, "Helvetica Neue", Helvetica, Arial, "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size:30px;
+    position: absolute;
+    font-weight:700;
+    left: 110px;
+    top: 74px;
+    color: black;
+}
+#discovertext{
+    font-family :HelvNowOrange, HelvNeueOrange, "Helvetica Neue", Helvetica, Arial, "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size:24px;
+    position: absolute;
+    font-weight:700;
+    left: 110px;
+    top: 125px;
+    color: black;
+    letter-spacing:-0.5px;
+}
+#orangejobs{
+    width: 138px;
+    height: 41px;
+    position: absolute;
+    left: 100px;
+    top: 205px;
+    background-color:#F16E00;
+    border: none;
+    cursor: pointer;
+}
+#Employeeportraits{
+    width: 185px;
+    height: 41px;
+    position: absolute;
+    left: 248px;
+    top: 205px;
+    background-color:black;
+    border: 2px black solid;
+    cursor: pointer;
+}
+#orangebuttontext{
+    position: absolute;
+    color: black;
+    right: 0.3cm;
+    bottom: 0.3cm;
+    width: 138px;
+}
+#employeebuttontext{
+    position: absolute;
+    color: white;
+    right: 0.3cm;
+    bottom: 0.3cm;
+    width: 185px;
+}
+#orangejobs:hover{
+    background-color: black;
+}
+#Employeeportraits:hover{
+       background-color: white;
+}
+#orangebuttontext:hover{
+    color: white;
+}
+#employeebuttontext:hover{
+    color: black;
+
+}
+#orangearoundtheworld{
+    font-family:HelvNowOrange, HelvNeueOrange, "Helvetica Neue", Helvetica, Arial, "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size:30px;
+    font-weight:700;
+    position: absolute;
+    top: 75px;
+    left: 108px;
+}
+#nomattertext{
+    font-family:HelvNowOrange, HelvNeueOrange, "Helvetica Neue", Helvetica, Arial, "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size:16px;
+    font-weight:400;
+    position: absolute;
+    top: 122px;
+    left: 108px;
+
+}
+#findoutmorearrow{
+    font-family:HelvNowOrange, HelvNeueOrange, "Helvetica Neue", Helvetica, Arial, "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size:16px;
+    font-weight:700;
+    position: absolute;
+    top: 178px;
+    left: 108px;
+    cursor: pointer;
+}
+#findoutmorearrow:hover{
+    color: #F16E00;
+}
+#header7button{
+    width: 380px;
+    height: 42px;
+    position: absolute;
+    background-color: black;
+    top: 120px;
+    left: 900px;
+    cursor: pointer;
+    border: 1px black solid;
+
+}
+#buttontext7header{
+    font-family:HelvNowOrange, HelvNeueOrange, "Helvetica Neue", Helvetica, Arial, "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size:16px;
+    font-weight:700;
+    position: absolute;
+    cursor: pointer;
+    color: white;
+    left: 0.1cm;
+    bottom: 0.3cm;
+    width: 380px;
+}
+#header7button:hover{
+    background-color: white;
+}
+#buttontext7header:hover{
+    color: black;
+}
+#header8explore{
+    	
+    font-family :HelvNowOrange, HelvNeueOrange, "Helvetica Neue", Helvetica, Arial, "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size:24px;
+    letter-spacing:-0.5px;
+    font-weight:700;
+    position: absolute;
+    left: 112px;
+    top: 72px;
+}
+#residential{
+    font-family :HelvNowOrange, HelvNeueOrange, "Helvetica Neue", Helvetica, Arial, "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size:24px;
+    letter-spacing:-0.5px;
+    font-weight:700;
+    position: absolute;
+    left: 552px;
+    top: 70px;
+}
+#businesscustomer{
+    font-family :HelvNowOrange, HelvNeueOrange, "Helvetica Neue", Helvetica, Arial, "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size:24px;
+    letter-spacing:-0.5px;
+    font-weight:700;
+    position: absolute;
+    left: 992px;
+    top: 70px;
+}
+#producttext{
+    left: 551px;
+    top: 158px;
+    font-family :HelvNowOrange, HelvNeueOrange, "Helvetica Neue", Helvetica, Arial, "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size:16px;
+    font-weight: 700px;
+    position: absolute;
+    cursor: pointer;
+}
+#producttext:hover{
+    text-decoration: underline;
+}
+#servicestext{
+    left: 992px;
+    top: 158px;
+    font-family :HelvNowOrange, HelvNeueOrange, "Helvetica Neue", Helvetica, Arial, "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size:16px;
+    font-weight: 700px;
+    position: absolute;
+    cursor: pointer;
+}
+#servicestext:hover{
+    text-decoration: underline;
+}
+#helptext{
+    left: 551px;
+    top: 237px;
+    font-family :HelvNowOrange, HelvNeueOrange, "Helvetica Neue", Helvetica, Arial, "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size:16px;
+    font-weight: 700px;
+    position: absolute;
+    cursor: pointer;
+}
+#helptext:hover{
+    text-decoration: underline;
+}
+#contacttext{
+    left: 992px;
+    top: 237px;
+    font-family :HelvNowOrange, HelvNeueOrange, "Helvetica Neue", Helvetica, Arial, "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size:16px;
+    font-weight: 700px;
+    position: absolute;
+    cursor: pointer;
+    color: black;
+}
+#contacttext:hover{
+    text-decoration: underline;
+}
+#countriesbutton{
+    width: 173px;
+    height: 40px;
+    left: 110px;
+    top:  114px;
+    position: absolute;
+    background-color: black;
+    cursor: pointer;
+}
+#countriesbuttontext{
+    color: white;
+    position: relative;
+}
+#countriesbutton:hover{
+    border: white 1px solid;
+}
+#productimage{
+    width: 33px;
+    height: 33px;
+    position: absolute;
+    left: 550px;
+    top: 120px;
+
+}
+#helpimage{
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    left: 550px;
+    top: 200px;
+
+}
+#serviceimage{
+    height: 26px;
+    width: 20px;
+    position: absolute;
+    left: 991px;
+    top: 129px;
+
+}
+#contactimage{
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    left: 991px;
+    top: 200px;
+}
+.footerlist{
+    font-family :HelvNowOrange, HelvNeueOrange, "Helvetica Neue", Helvetica, Arial, "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size:14px;
+    margin-bottom: 13.5px;
+    font-weight:700;
+    color: white;
+}
+.footerlist:hover{
+    color: #F16E00;
+    cursor: pointer;
+}
+#divfooter{
+    background-color: black;
+    position: absolute;
+    width: 256px;
+    height: 302px;
+    left: 128px;
+    top: 275px;
+
+}
+#divfooter2{
+    background-color: black;
+    width: 208px;
+    height: 212px;
+    position: absolute;
+    left: 617px;
+    top: 280px;
+}
+#aboutorange{
+    font-family :HelvNowOrange, HelvNeueOrange, "Helvetica Neue", Helvetica, Arial, "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size:16px;
+    margin-bottom: 13.5px;
+    font-weight:700;
+    color: white;
+    position: absolute;
+    top: 230px;
+    left: 122px;
+    cursor: pointer;
+
+}
+
+#aboutorange:hover{
+    color: #F16E00;
+}
+#otherlinks{
+    font-family :HelvNowOrange, HelvNeueOrange, "Helvetica Neue", Helvetica, Arial, "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size:16px;
+    margin-bottom: 13.5px;
+    font-weight:700;
+    color: white;
+    position: absolute;
+    top: 230px;
+    left: 612px;
+    cursor: pointer;
+}
+
+#otherlinks:hover{
+    color: #F16E00;
+}
+#followus{
+    font-family :HelvNowOrange, HelvNeueOrange, "Helvetica Neue", Helvetica, Arial, "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size:16px;
+    margin-bottom: 13.5px;
+    font-weight:700;
+    color: white;
+    position: absolute;
+    top: 80px;
+    left: 122px;
+}
+#choose{
+    font-family :HelvNowOrange, HelvNeueOrange, "Helvetica Neue", Helvetica, Arial, "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size:16px;
+    margin-bottom: 13.5px;
+    font-weight:700;
+    color: white;
+    position: absolute;
+    top: 200px;
+    left: 1098px;
+}
+#regionbutton{
+    width: 167px;
+    height: 40px;
+    border: 1px #eeeeee solid;
+    position: absolute;
+    left: 1098px;
+    top: 230px;
+    cursor: pointer;
+    background-color: black;
+}
+#countrytextbutton{
+    color: white;
+    cursor: pointer;
+}
+#regionbutton:hover{
+    border: white 2px solid;
+}
+#footerfooter1{
+    font-family :HelvNowOrange, HelvNeueOrange, "Helvetica Neue", Helvetica, Arial, "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size:14px;
+    font-weight:700;
+    color: white;
+    position: absolute;
+    top: 633px;
+    left: 128px;
+    cursor: pointer;
+}
+#footerfooter2{
+    font-family :HelvNowOrange, HelvNeueOrange, "Helvetica Neue", Helvetica, Arial, "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size:14px;
+    font-weight:700;
+    color: white;
+    position: absolute;
+    top: 633px;
+    left: 241px;
+    cursor: pointer;
+}
+#footerfooter3{
+    font-family :HelvNowOrange, HelvNeueOrange, "Helvetica Neue", Helvetica, Arial, "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size:14px;
+    font-weight:700;
+    color: white;
+    position: absolute;
+    top: 633px;
+    left: 353px;
+    cursor: pointer;
+}
+#footerfooter4{
+    font-family :HelvNowOrange, HelvNeueOrange, "Helvetica Neue", Helvetica, Arial, "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size:14px;
+    font-weight:700;
+    color: white;
+    position: absolute;
+    top: 633px;
+    left: 458px;
+    cursor: pointer;
+}
+#footerfooter5{
+    font-family :HelvNowOrange, HelvNeueOrange, "Helvetica Neue", Helvetica, Arial, "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size:14px;
+    font-weight:700;
+    color: white;
+    position: absolute;
+    top: 633px;
+    left: 518px;
+    cursor: pointer;
+}
+#footerfooter6{
+    font-family :HelvNowOrange, HelvNeueOrange, "Helvetica Neue", Helvetica, Arial, "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size:14px;
+    font-weight:700;
+    color: white;
+    position: absolute;
+    top: 633px;
+    left: 600px;
+    cursor: pointer;
+}
+#footerfooter7{
+    font-family :HelvNowOrange, HelvNeueOrange, "Helvetica Neue", Helvetica, Arial, "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size:14px;
+    font-weight:700;
+    color: white;
+    position: absolute;
+    top: 633px;
+    left: 700px;
+}
+#footerfooter6:hover{
+    color: #F16E00;
+}
+#footerfooter5:hover{
+    color: #F16E00;
+}
+#footerfooter4:hover{
+    color: #F16E00;
+}
+#footerfooter3:hover{
+    color: #F16E00;
+}
+#footerfooter2:hover{
+    color: #F16E00;
+}
+#footerfooter1:hover{
+    color: #F16E00;
+}
